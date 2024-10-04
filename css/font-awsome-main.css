@@ -1,0 +1,594 @@
+/*!* Font Awesome Free 5.9.0 by @fontawesome - https://fontawesome.com
+* License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License)*/
+.fa,
+.fab {
+    -moz-osx-font-smoothing: grayscale;
+    -webkit-font-smoothing: antialiased;
+    display: inline-block;
+    font-style: normal;
+    font-variant: normal;
+    text-rendering: auto;
+    line-height: 1
+}
+
+.fa-lg {
+    font-size: 1.33333em;
+    line-height: .75em;
+    vertical-align: -.0667em
+}
+
+.fa-sm {
+    font-size: .875em
+}
+
+.fa-1x {
+    font-size: 1em
+}
+
+.fa-2x {
+    font-size: 2em
+}
+
+.fa-3x {
+    font-size: 3em
+}
+
+.fa-4x {
+    font-size: 4em
+}
+
+.fa-5x {
+    font-size: 5em
+}
+
+.fa-6x {
+    font-size: 6em
+}
+
+.fa-7x {
+    font-size: 7em
+}
+
+.fa-8x {
+    font-size: 8em
+}
+
+.fa-9x {
+    font-size: 9em
+}
+
+.fa-10x {
+    font-size: 10em
+}
+
+.fa-ul {
+    list-style-type: none;
+    margin-left: 2.5em;
+    padding-left: 0
+}
+
+.fa-ul>li {
+    position: relative
+}
+
+.fa-li {
+    left: -2em;
+    position: absolute;
+    text-align: center;
+    width: 2em;
+    line-height: inherit
+}
+
+@-webkit-keyframes fa-spin {
+    0% {
+        -webkit-transform: rotate(0);
+        transform: rotate(0)
+    }
+
+    100% {
+        -webkit-transform: rotate(360deg);
+        transform: rotate(360deg)
+    }
+}
+
+@keyframes fa-spin {
+    0% {
+        -webkit-transform: rotate(0);
+        transform: rotate(0)
+    }
+
+    100% {
+        -webkit-transform: rotate(360deg);
+        transform: rotate(360deg)
+    }
+}
+
+.fa-500px:before {
+    content: "\f26e"
+}
+
+.fa-ad:before {
+    content: "\f641"
+}
+
+.fa-address-card:before {
+    content: "\f2bb"
+}
+
+.fa-align-center:before {
+    content: "\f037"
+}
+
+.fa-align-justify:before {
+    content: "\f039"
+}
+
+.fa-align-left:before {
+    content: "\f036"
+}
+
+.fa-align-right:before {
+    content: "\f038"
+}
+
+.fa-angle-left:before {
+    content: "\f104";
+    color: #ffaa17
+}
+
+.fa-angle-right:before {
+    content: "\f105";
+    color: #ffaa17
+}
+
+.fa-angle-up:before {
+    content: "\f106"
+}
+
+.fa-app-store:before {
+    content: "\f36f"
+}
+
+.fa-at:before {
+    content: "\f1fa"
+}
+
+.fa-award:before {
+    content: "\f559"
+}
+
+.fa-blog:before {
+    content: "\f781"
+}
+
+.fa-bootstrap:before {
+    content: "\f836"
+}
+
+.fa-box:before {
+    content: "\f466"
+}
+
+.fa-box-open:before {
+    content: "\f49e"
+}
+
+.fa-business-time:before {
+    content: "\f64a"
+}
+
+.fa-car:before {
+    content: "\f1b9"
+}
+
+.fa-car-alt:before {
+    content: "\f5de"
+}
+
+.fa-car-side:before {
+    content: "\f5e4"
+}
+
+.fa-check:before {
+    content: "\f00c"
+}
+
+.fa-check-square:before {
+    content: "\f14a"
+}
+
+.fa-city:before {
+    content: "\f64f"
+}
+
+.fa-coffee:before {
+    content: "\f0f4"
+}
+
+.fa-cookie:before {
+    content: "\f563"
+}
+
+.fa-copy:before {
+    content: "\f0c5"
+}
+
+.fa-copyright:before {
+    content: "\f1f9"
+}
+
+.fa-css3:before {
+    content: "\f13c"
+}
+
+.fa-css3-alt:before {
+    content: "\f38b"
+}
+
+.fa-d-and-d:before {
+    content: "\f38d"
+}
+
+.fa-door-open:before {
+    content: "\f52b"
+}
+
+.fa-draw-polygon:before {
+    content: "\f5ee"
+}
+
+.fa-edge:before {
+    content: "\f282"
+}
+
+.fa-empire:before {
+    content: "\f1d1"
+}
+
+.fa-expand:before {
+    content: "\f065"
+}
+
+.fa-eye:before {
+    content: "\f06e"
+}
+
+.fa-facebook:before {
+    content: "\f09a"
+}
+
+.fa-facebook-f:before {
+    content: "\f39e"
+}
+
+.fa-facebook-square:before {
+    content: "\f082"
+}
+
+.fa-film:before {
+    content: "\f008"
+}
+
+.fa-first-order:before {
+    content: "\f2b0"
+}
+
+.fa-first-order-alt:before {
+    content: "\f50a"
+}
+
+.fa-font:before {
+    content: "\f031"
+}
+
+.fa-get-pocket:before {
+    content: "\f265"
+}
+
+.fa-google:before {
+    content: "\f1a0"
+}
+
+.fa-google-drive:before {
+    content: "\f3aa"
+}
+
+.fa-h-square:before {
+    content: "\f0fd"
+}
+
+.fa-history:before {
+    content: "\f1da"
+}
+
+.fa-home:before {
+    content: "\f015"
+}
+
+.fa-html5:before {
+    content: "\f13b"
+}
+
+.fa-i-cursor:before {
+    content: "\f246"
+}
+
+.fa-icons:before {
+    content: "\f86d"
+}
+
+.fa-id-card:before {
+    content: "\f2c2"
+}
+
+.fa-id-card-alt:before {
+    content: "\f47f"
+}
+
+.fa-image:before {
+    content: "\f03e"
+}
+
+.fa-images:before {
+    content: "\f302"
+}
+
+.fa-industry:before {
+    content: "\f275"
+}
+
+.fa-info:before {
+    content: "\f129"
+}
+
+.fa-instagram:before {
+    content: "\f16d"
+}
+
+.fa-js:before {
+    content: "\f3b8"
+}
+
+.fa-js-square:before {
+    content: "\f3b9"
+}
+
+.fa-key:before {
+    content: "\f084"
+}
+
+.fa-layer-group:before {
+    content: "\f5fd"
+}
+
+.fa-link:before {
+    content: "\f0c1"
+}
+
+.fa-linkedin:before {
+    content: "\f08c"
+}
+
+.fa-linkedin-in:before {
+    content: "\f0e1"
+}
+
+.fa-list:before {
+    content: "\f03a"
+}
+
+.fa-list-alt:before {
+    content: "\f022"
+}
+
+.fa-list-ul:before {
+    content: "\f0ca"
+}
+
+.fa-map:before {
+    content: "\f279"
+}
+
+.fa-map-pin:before {
+    content: "\f276"
+}
+
+.fa-mobile:before {
+    content: "\f10b"
+}
+
+.fa-mobile-alt:before {
+    content: "\f3cd"
+}
+
+.fa-newspaper:before {
+    content: "\f1ea"
+}
+
+.fa-ns8:before {
+    content: "\f3d5"
+}
+
+.fa-object-group:before {
+    content: "\f247"
+}
+
+.fa-page4:before {
+    content: "\f3d7"
+}
+
+.fa-percent:before {
+    content: "\f295"
+}
+
+.fa-pinterest:before {
+    content: "\f0d2"
+}
+
+.fa-pinterest-p:before {
+    content: "\f231"
+}
+
+.fa-pinterest-square:before {
+    content: "\f0d3"
+}
+
+.fa-question:before {
+    content: "\f128"
+}
+
+.fa-quote-left:before {
+    content: "\f10d"
+}
+
+.fa-quote-right:before {
+    content: "\f10e"
+}
+
+.fa-r-project:before {
+    content: "\f4f7"
+}
+
+.fa-registered:before {
+    content: "\f25d"
+}
+
+.fa-road:before {
+    content: "\f018"
+}
+
+.fa-rocket:before {
+    content: "\f135"
+}
+
+.fa-school:before {
+    content: "\f549"
+}
+
+.fa-scroll:before {
+    content: "\f70e"
+}
+
+.fa-search:before {
+    content: "\f002"
+}
+
+.fa-sign:before {
+    content: "\f4d9"
+}
+
+.fa-sign-in-alt:before {
+    content: "\f2f6"
+}
+
+.fa-sign-out-alt:before {
+    content: "\f2f5"
+}
+
+.fa-square:before {
+    content: "\f0c8"
+}
+
+.fa-stop:before {
+    content: "\f04d"
+}
+
+.fa-store:before {
+    content: "\f54e"
+}
+
+.fa-store-alt:before {
+    content: "\f54f"
+}
+
+.fa-text-height:before {
+    content: "\f034"
+}
+
+.fa-text-width:before {
+    content: "\f035"
+}
+
+.fa-tools:before {
+    content: "\f7d9"
+}
+
+.fa-traffic-light:before {
+    content: "\f637"
+}
+
+.fa-twitter:before {
+    content: "\f099"
+}
+
+.fa-twitter-square:before {
+    content: "\f081"
+}
+
+.fa-umbrella:before {
+    content: "\f0e9"
+}
+
+.fa-user:before {
+    content: "\f007"
+}
+
+.fa-user-alt:before {
+    content: "\f406"
+}
+
+.fa-user-check:before {
+    content: "\f4fc"
+}
+
+.fa-user-md:before {
+    content: "\f0f0"
+}
+
+.fa-users:before {
+    content: "\f0c0"
+}
+
+.fa-window-close:before {
+    content: "\f410"
+}
+
+.fa-won-sign:before {
+    content: "\f159"
+}
+
+@font-face {
+    font-family: "font awesome 5 brands";
+    font-style: normal;
+    font-weight: 400;
+    font-display: auto;
+    src: url(../fonts/fa-brands-400.eot);
+    src: url(https://www.jetquins travelsagency.com/fonts/fa-brands-400d41d.eot?#iefix) format("embedded-opentype"), url(https://www.jetquins travelsagency.com/fonts/fa-brands-400.woff2) format("woff2"), url(https://www.jetquins travelsagency.com/fonts/fa-brands-400.woff) format("woff"), url(https://www.jetquins travelsagency.com/fonts/fa-brands-400.ttf) format("truetype"), url(https://www.jetquins travelsagency.com/fonts/fa-brands-400.svg#fontawesome) format("svg")
+}
+
+.fab {
+    font-family: "font awesome 5 brands"
+}
+
+@font-face {
+    font-family: "font awesome 5 free";
+    font-style: normal;
+    font-weight: 400;
+    font-display: auto;
+    src: url(https://www.jetquins travelsagency.com/fonts/fa-regular-400.eot);
+    src: url(https://www.jetquins travelsagency.com/fonts/fa-regular-400d41d.eot?#iefix) format("embedded-opentype"), url(https://www.jetquins travelsagency.com/fonts/fa-regular-400.woff2) format("woff2"), url(https://www.jetquins travelsagency.com/fonts/fa-regular-400.woff) format("woff"), url(https://www.jetquins travelsagency.com/fonts/fa-regular-400.ttf) format("truetype"), url(https://www.jetquins travelsagency.com/fonts/fa-regular-400.svg#fontawesome) format("svg")
+}
+
+@font-face {
+    font-family: "font awesome 5 free";
+    font-style: normal;
+    font-weight: 900;
+    font-display: auto;
+    src: url(https://www.jetquins travelsagency.com/fonts/fa-solid-900.eot);
+    src: url(https://www.jetquins travelsagency.com/fonts/fa-solid-900d41d.eot?#iefix) format("embedded-opentype"), url(https://www.jetquins travelsagency.com/fonts/fa-solid-900.woff2) format("woff2"), url(https://www.jetquins travelsagency.com/fonts/fa-solid-900.woff) format("woff"), url(https://www.jetquins travelsagency.com/fonts/fa-solid-900.ttf) format("truetype"), url(https://www.jetquins travelsagency.com/fonts/fa-solid-900.svg#fontawesome) format("svg")
+}
+
+.fa {
+    font-family: "font awesome 5 free";
+    font-weight: 900
+}

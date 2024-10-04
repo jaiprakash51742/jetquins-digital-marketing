@@ -1,0 +1,108 @@
+{
+    "id": 38,
+    "count": 1,
+    "description": "Tag Archives facebook marketing",
+    "link": "https:\/\/www.jetquins travelsagency.com\/blog\/tag\/facebook-marketing\/",
+    "name": "facebook marketing",
+    "slug": "facebook-marketing",
+    "taxonomy": "post_tag",
+    "meta": [],
+    "yoast_head": "<!-- This site is optimized with the Yoast SEO plugin v23.2 - https:\/\/yoast.com\/wordpress\/plugins\/seo\/ -->\n<title>facebook marketing Archives -<\/title>\n<meta name=\"description\" content=\"Tag Archives facebook marketing\" \/>\n<meta name=\"robots\" content=\"noindex, follow\" \/>\n<meta property=\"og:locale\" content=\"en_US\" \/>\n<meta property=\"og:type\" content=\"article\" \/>\n<meta property=\"og:title\" content=\"facebook marketing Archives -\" \/>\n<meta property=\"og:description\" content=\"Tag Archives facebook marketing\" \/>\n<meta property=\"og:url\" content=\"https:\/\/jetquins travelsagency.com\/blog\/tag\/facebook-marketing\/\" \/>\n<meta name=\"twitter:card\" content=\"summary_large_image\" \/>\n<script type=\"application\/ld+json\" class=\"yoast-schema-graph\">{\"@context\":\"https:\/\/schema.org\",\"@graph\":[{\"@type\":\"CollectionPage\",\"@id\":\"https:\/\/www.jetquins travelsagency.com\/blog\/tag\/facebook-marketing\/\",\"url\":\"https:\/\/jetquins travelsagency.com\/blog\/tag\/facebook-marketing\/\",\"name\":\"facebook marketing Archives -\",\"isPartOf\":{\"@id\":\"https:\/\/www.jetquins travelsagency.com\/blog\/#website\"},\"description\":\"Tag Archives facebook marketing\",\"breadcrumb\":{\"@id\":\"https:\/\/jetquins travelsagency.com\/blog\/tag\/facebook-marketing\/#breadcrumb\"},\"inLanguage\":\"en-US\"},{\"@type\":\"BreadcrumbList\",\"@id\":\"https:\/\/jetquins travelsagency.com\/blog\/tag\/facebook-marketing\/#breadcrumb\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Home\",\"item\":\"https:\/\/www.jetquins travelsagency.com\/blog\/\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"facebook marketing\"}]},{\"@type\":\"WebSite\",\"@id\":\"https:\/\/www.jetquins travelsagency.com\/blog\/#website\",\"url\":\"https:\/\/www.jetquins travelsagency.com\/blog\/\",\"name\":\"\",\"description\":\"Digital Marketing Company In Patna | Top Digital Marketing Agency in Patna\",\"potentialAction\":[{\"@type\":\"SearchAction\",\"target\":{\"@type\":\"EntryPoint\",\"urlTemplate\":\"https:\/\/www.jetquins travelsagency.com\/blog\/?s={search_term_string}\"},\"query-input\":\"required name=search_term_string\"}],\"inLanguage\":\"en-US\"}]}<\/script>\n<!-- \/ Yoast SEO plugin. -->",
+    "yoast_head_json": {
+        "title": "facebook marketing Archives -",
+        "description": "Tag Archives facebook marketing",
+        "robots": {
+            "index": "noindex",
+            "follow": "follow"
+        },
+        "og_locale": "en_US",
+        "og_type": "article",
+        "og_title": "facebook marketing Archives -",
+        "og_description": "Tag Archives facebook marketing",
+        "og_url": "https:\/\/jetquins travelsagency.com\/blog\/tag\/facebook-marketing\/",
+        "twitter_card": "summary_large_image",
+        "schema": {
+            "@context": "https:\/\/schema.org",
+            "@graph": [
+                {
+                    "@type": "CollectionPage",
+                    "@id": "https:\/\/www.jetquins travelsagency.com\/blog\/tag\/facebook-marketing\/",
+                    "url": "https:\/\/jetquins travelsagency.com\/blog\/tag\/facebook-marketing\/",
+                    "name": "facebook marketing Archives -",
+                    "isPartOf": {
+                        "@id": "https:\/\/www.jetquins travelsagency.com\/blog\/#website"
+                    },
+                    "description": "Tag Archives facebook marketing",
+                    "breadcrumb": {
+                        "@id": "https:\/\/jetquins travelsagency.com\/blog\/tag\/facebook-marketing\/#breadcrumb"
+                    },
+                    "inLanguage": "en-US"
+                },
+                {
+                    "@type": "BreadcrumbList",
+                    "@id": "https:\/\/jetquins travelsagency.com\/blog\/tag\/facebook-marketing\/#breadcrumb",
+                    "itemListElement": [
+                        {
+                            "@type": "ListItem",
+                            "position": 1,
+                            "name": "Home",
+                            "item": "https:\/\/www.jetquins travelsagency.com\/blog\/"
+                        },
+                        {
+                            "@type": "ListItem",
+                            "position": 2,
+                            "name": "facebook marketing"
+                        }
+                    ]
+                },
+                {
+                    "@type": "WebSite",
+                    "@id": "https:\/\/www.jetquins travelsagency.com\/blog\/#website",
+                    "url": "https:\/\/www.jetquins travelsagency.com\/blog\/",
+                    "name": "",
+                    "description": "Digital Marketing Company In Patna | Top Digital Marketing Agency in Patna",
+                    "potentialAction": [
+                        {
+                            "@type": "SearchAction",
+                            "target": {
+                                "@type": "EntryPoint",
+                                "urlTemplate": "https:\/\/www.jetquins travelsagency.com\/blog\/?s={search_term_string}"
+                            },
+                            "query-input": "required name=search_term_string"
+                        }
+                    ],
+                    "inLanguage": "en-US"
+                }
+            ]
+        }
+    },
+    "_links": {
+        "self": [
+            {
+                "href": "https:\/\/www.jetquins travelsagency.com\/blog\/wp-json\/wp\/v2\/tags\/38"
+            }
+        ],
+        "collection": [
+            {
+                "href": "https:\/\/www.jetquins travelsagency.com\/blog\/wp-json\/wp\/v2\/tags"
+            }
+        ],
+        "about": [
+            {
+                "href": "https:\/\/www.jetquins travelsagency.com\/blog\/wp-json\/wp\/v2\/taxonomies\/post_tag"
+            }
+        ],
+        "wp:post_type": [
+            {
+                "href": "https:\/\/www.jetquins travelsagency.com\/blog\/wp-json\/wp\/v2\/posts?tags=38"
+            }
+        ],
+        "curies": [
+            {
+                "name": "wp",
+                "href": "https:\/\/api.w.org\/{rel}",
+                "templated": true
+            }
+        ]
+    }
+}
